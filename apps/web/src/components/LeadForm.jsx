@@ -123,7 +123,7 @@ function LeadForm() {
             </p>
             <p>
               <span className="font-medium text-foreground">Email:</span><br />
-              contact@printpack.in
+              namanagg843@gmail.com
             </p>
           </div>
         </div>
