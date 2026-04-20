@@ -67,7 +67,7 @@ function Footer() {
               </li>
               <li className="flex items-center gap-2">
                 <Mail className="w-4 h-4 flex-shrink-0" />
-                <span>contact@printpack.in</span>
+                <span>namanagg843@gmail.com</span>
               </li>
             </ul>
           </div>
