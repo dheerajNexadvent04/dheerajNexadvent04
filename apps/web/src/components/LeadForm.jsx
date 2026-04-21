@@ -119,11 +119,11 @@ function LeadForm() {
             </p>
             <p>
               <span className="font-medium text-foreground">Phone:</span><br />
-              +91 96675 37637
+              +91 8375002511
             </p>
             <p>
               <span className="font-medium text-foreground">Email:</span><br />
-              namanagg843@gmail.com
+             contact@printpackdelhi.in
             </p>
           </div>
         </div>
