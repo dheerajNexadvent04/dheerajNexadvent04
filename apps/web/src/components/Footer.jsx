@@ -63,11 +63,11 @@ function Footer() {
               </li>
               <li className="flex items-center gap-2">
                 <Phone className="w-4 h-4 flex-shrink-0" />
-                <span>+91 96675 37637</span>
+                <span>+91 8375002511</span>
               </li>
               <li className="flex items-center gap-2">
                 <Mail className="w-4 h-4 flex-shrink-0" />
-                <span>namanagg843@gmail.com</span>
+                <span>contact@printpackdelhi.in</span>
               </li>
             </ul>
           </div>
